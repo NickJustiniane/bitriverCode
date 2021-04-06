@@ -466,7 +466,8 @@ mark {
 
 .list-unstyled {
     padding-left: 0;
-    list-style: none
+    list-style: none;
+    color: #9d9fa5 !important;
 }
 
 .list-inline {
@@ -11971,4 +11972,8 @@ a.fancy-dark:hover {
 
 .mg-top1 {
     margin-top: 25px !important;
+}
+
+.topspace {
+    margin-bottom: 50px !important;
 }
